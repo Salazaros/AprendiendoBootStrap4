@@ -1,0 +1,26 @@
+GITBASH CONSOLA
+
+git init --> para inicializar
+git add --> para hacer seguimiento 
+git comit -m -> para subir el archivo al repositorio
+git status --> para ver el estado en que se encuentra el archivo.
+git log --oneline --> para ver los comit realizados
+git checkout +codigo del comit --> para volver a una version anterior
+
+PARA EL CONTENEDOR
+
+para pantallas extrapequeñas - movil
+col- xs-numero de columnas
+col-numero de columnas
+
+para pantallas pequeñas
+col-sm-numero de columnas
+
+para pantallas medianas
+col-md-numero de columnas
+
+para pantalas grandes
+col-lg-numero de columnas
+
+centrar elemento con bootstrap
+mx-auto
